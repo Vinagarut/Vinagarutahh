@@ -116,7 +116,7 @@ install.aex
 ;;
 
 
-6) echo "created by : mastahcyber" | lolcat
+6) echo "created by : hyriff" | lolcat
 exit
 ;;
 
